@@ -66,3 +66,7 @@ _✨ 基于nonebot的植物大战僵尸插件 ✨_
     <img src="https://img.shields.io/badge/QQ%E7%BE%A4-719392400-orange?style=flat-square" alt="QQ Chat Group">
     </a>
 </p>
+
+## 关于我
+
+
