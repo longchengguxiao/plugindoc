@@ -7,5 +7,5 @@
     - [nonebot_plugin_xdu_support](/nonebot_plugin_xdu_support/README.md)
 
 - 关于我
-    - [aboutme](/aboutme/README.md) 
-    - [daily](/daily/README.md)
+    - [关于本人](/aboutme/README.md) 
+    - [生活日志](/daily/README.md)
