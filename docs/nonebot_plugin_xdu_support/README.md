@@ -42,6 +42,26 @@ python -m pip install nonebot_plugin_xdu_support
 ```
 配置部分可以参考[nonebot文档](https://v2.nonebot.dev/docs/advanced/scheduler)
 
+## 快速开始
+
+!> 括号中的话不用发送，表示了命令的意图或者提示
+
++ xdu功能订阅 课表提醒（注意空格）
+
++ （依据提示完成操作）
+
++ 查询课表（获取本地课表启动服务）
+
+---
+
++ xdu功能订阅 体育打卡（注意空格）
+
++ （依据提示完成操作）
+
++ 体育打卡查询（获取体育打卡次数）
+
+
+
 ## 详细玩法
 
 
