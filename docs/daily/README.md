@@ -87,7 +87,7 @@
 ![tiger](https://www.bilibili.com/video/BV1b54y1c71S ':include :type=iframe')
 
 
-### 线下观赛 EDG vs DK
+### 线下观赛EDGvsDK
 > 今天是2021年11月16日他来找我一起吃晚饭~
  
 ![23](/#/recourse/23.jpg ':size=50%')
