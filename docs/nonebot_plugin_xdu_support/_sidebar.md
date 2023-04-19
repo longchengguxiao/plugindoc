@@ -3,6 +3,7 @@
 - [**仓库列表**](/#/README.md)
 
 - [nonebot_plugin_xdu_support](https://github.com/longchengguxiao/nonebot_plugin_xdu_support)
+    - [新版特性](#新版特性)
     - [**说在前面**](#说在前面)
     - [简介](#简介)
     - [安装](#安装)
