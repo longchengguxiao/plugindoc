@@ -63,7 +63,7 @@ python -m pip install nonebot_plugin_xdu_support
 ## 特殊依赖
 
 ```buildoutcfg
-jionlp, libxduauth
+jionlp, libxduauth, ddddocr, pilk
 ```
 
 ## 使用
